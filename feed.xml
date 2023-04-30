@@ -3,12 +3,53 @@
     <title>Oliver Associates</title>
     <link href="https://bill-oliver.github.io/OliverAssociates/feed.xml" rel="self" />
     <link href="https://bill-oliver.github.io/OliverAssociates" />
-    <updated>2023-04-30T15:20:18-04:00</updated>
+    <updated>2023-04-30T16:24:58-04:00</updated>
     <author>
         <name>bo</name>
     </author>
     <id>https://bill-oliver.github.io/OliverAssociates</id>
 
+    <entry>
+        <title>Contact</title>
+        <author>
+            <name>bo</name>
+        </author>
+        <link href="https://bill-oliver.github.io/OliverAssociates/contact.html"/>
+        <id>https://bill-oliver.github.io/OliverAssociates/contact.html</id>
+
+        <updated>2023-04-30T16:24:58-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Contact Information:
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Contact Information:</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About Oliver Associates</title>
+        <author>
+            <name>bo</name>
+        </author>
+        <link href="https://bill-oliver.github.io/OliverAssociates/about-oliver-associates-2.html"/>
+        <id>https://bill-oliver.github.io/OliverAssociates/about-oliver-associates-2.html</id>
+
+        <updated>2023-04-30T16:21:58-04:00</updated>
+            <summary>
+                <![CDATA[
+                    TBC
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>TBC</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Accessing the Data</title>
         <author>
@@ -20,7 +61,7 @@
         <updated>2023-04-30T14:49:37-04:00</updated>
             <summary>
                 <![CDATA[
-                    See Essential Document No. 4 OA 2005B, Section 4, User Guide Identification and Labeling Artifacts Boxing and Labeling for Storage Storage and Warehousing The Collection on Display
+                    See Essential Document No. 4&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -46,7 +87,7 @@
         <updated>2023-04-30T14:48:51-04:00</updated>
             <summary>
                 <![CDATA[
-                    See Essential Document No. 4 OA 2005B, Section 3, Catalog
+                    See Essential Document No. 4&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -66,7 +107,7 @@
         <updated>2023-04-30T15:20:18-04:00</updated>
             <summary>
                 <![CDATA[
-                    Understanding the Data Base Accessing the Data
+                    Understanding the Data Base Accessing&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -89,7 +130,7 @@
         <updated>2023-04-30T14:47:26-04:00</updated>
             <summary>
                 <![CDATA[
-                    Insert content material, doc OA20007C, PP 23-27
+                    Insert content material, doc OA20007C,&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -117,7 +158,7 @@
         <updated>2023-04-30T14:47:00-04:00</updated>
             <summary>
                 <![CDATA[
-                    Insert content material. Item Identification Boxing and Labeling Storage and Warehousing Selecting and Consigning Artifacts for Display and Exposition
+                    Insert content material. Item Identification&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -143,7 +184,7 @@
         <updated>2023-04-30T14:46:20-04:00</updated>
             <summary>
                 <![CDATA[
-                    Cross Reference Codes: Inset doc No. HVACR1710B QVAS Manual: Insert doc HVACR 1403E Research Tools: Insert tools reference Bill Oliver
+                    Cross Reference Codes: Inset doc&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -167,7 +208,7 @@
         <updated>2023-04-30T14:45:45-04:00</updated>
             <summary>
                 <![CDATA[
-                    The Provenance, Identification, Recovery, and Conservation of the Founding Artifact Collection Insert content material from HHCC Essential Document No.3, Doc No. OA2007C, PP 8-14 Insert content material from HHCC Essential Document No.3, Doc No. OA2007C, PP 14-20 Insert content material from HHCC Essential Document No.3,&hellip;
+                    The Provenance, Identification, Recovery, and&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -203,7 +244,7 @@
         <updated>2023-04-30T14:43:45-04:00</updated>
             <summary>
                 <![CDATA[
-                    The large part of the research was undertaken by Oliver Associates[1] between 1999-2008. The collection of “Historic Artifacts of HVACR Technology”, consisting of 350 items, was prepared with an eye to meeting musicological gifting standards, pallet mounted, boxed [See picture], and labeled. Box labels were&hellip;
+                    The large part of the&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -213,52 +254,6 @@
 <p>The open-ended research process was guided by a 40-element data sheet. The research covered traditional tombstone data, with special reference to “significance” [Technological, Industrial, Socio-Economic, and Socio-cultural significance. See “Research Report Classification Management Information System”, doc. HVACR1705A.</p>
 <hr>
 <p><a href="#_ftnref1" name="_ftn1">[1]</a> Leslie Oliver PhD, principal.  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Accessing HHCC’s Artifact Research Data Base</title>
-        <author>
-            <name>bo</name>
-        </author>
-        <link href="https://bill-oliver.github.io/OliverAssociates/accessing-hhccs-artifact-research-data-base.html"/>
-        <id>https://bill-oliver.github.io/OliverAssociates/accessing-hhccs-artifact-research-data-base.html</id>
-
-        <updated>2023-04-30T15:19:01-04:00</updated>
-            <summary>
-                <![CDATA[
-                    Undertaking the Research The HHCC Artifact Research Data Base Accessing the Artifact Data Base Caring for the Artifact Collection The Public Programing of the Collection
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-<li><strong><a href="https://bill-oliver.github.io/OliverAssociates/undertaking-the-research.html">Undertaking the Research</a></strong></li>
-<li><strong><a href="https://bill-oliver.github.io/OliverAssociates/the-hhcc-artifact-research-data-base.html">The HHCC Artifact Research Data Base</a></strong></li>
-<li><strong><a href="https://bill-oliver.github.io/OliverAssociates/accessing-the-artifact-data-base.html">Accessing the Artifact Data Base</a></strong></li>
-<li><strong><a href="https://bill-oliver.github.io/OliverAssociates/caring-for-the-artifact-collection.html">Caring for the Artifact Collection</a></strong></li>
-<li><strong><a href="https://bill-oliver.github.io/OliverAssociates/the-public-programing-of-the-collection.html">The Public Programing of the Collection</a></strong></li>
-</ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Records of HHCC’s Performance and Achievements</title>
-        <author>
-            <name>bo</name>
-        </author>
-        <link href="https://bill-oliver.github.io/OliverAssociates/records-of-hhccs-performance-and-achievements.html"/>
-        <id>https://bill-oliver.github.io/OliverAssociates/records-of-hhccs-performance-and-achievements.html</id>
-
-        <updated>2023-04-30T14:39:19-04:00</updated>
-            <summary>
-                <![CDATA[
-                    TBC
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>TBC</p>
             ]]>
         </content>
     </entry>
