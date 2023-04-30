@@ -3,7 +3,7 @@
     <title>Oliver Associates</title>
     <link href="https://bill-oliver.github.io/OliverAssociates/feed.xml" rel="self" />
     <link href="https://bill-oliver.github.io/OliverAssociates" />
-    <updated>2023-04-30T14:49:37-04:00</updated>
+    <updated>2023-04-30T15:20:18-04:00</updated>
     <author>
         <name>bo</name>
     </author>
@@ -63,7 +63,7 @@
         <link href="https://bill-oliver.github.io/OliverAssociates/the-hhccs-archival-collection-data-base.html"/>
         <id>https://bill-oliver.github.io/OliverAssociates/the-hhccs-archival-collection-data-base.html</id>
 
-        <updated>2023-04-30T14:48:15-04:00</updated>
+        <updated>2023-04-30T15:20:18-04:00</updated>
             <summary>
                 <![CDATA[
                     Understanding the Data Base Accessing the Data
@@ -72,8 +72,8 @@
         <content type="html">
             <![CDATA[
                 <ul>
-<li><strong>Understanding the Data Base</strong></li>
-<li><strong>Accessing the Data</strong></li>
+<li><strong><a href="https://bill-oliver.github.io/OliverAssociates/understanding-the-data-base.html">Understanding the Data Base</a></strong></li>
+<li><strong><a href="https://bill-oliver.github.io/OliverAssociates/accessing-the-data.html">Accessing the Data</a></strong></li>
 </ul>
             ]]>
         </content>
@@ -224,7 +224,7 @@
         <link href="https://bill-oliver.github.io/OliverAssociates/accessing-hhccs-artifact-research-data-base.html"/>
         <id>https://bill-oliver.github.io/OliverAssociates/accessing-hhccs-artifact-research-data-base.html</id>
 
-        <updated>2023-04-30T14:42:24-04:00</updated>
+        <updated>2023-04-30T15:19:01-04:00</updated>
             <summary>
                 <![CDATA[
                     Undertaking the Research The HHCC Artifact Research Data Base Accessing the Artifact Data Base Caring for the Artifact Collection The Public Programing of the Collection
@@ -233,11 +233,11 @@
         <content type="html">
             <![CDATA[
                 <ul>
-<li><strong>Undertaking the Research</strong></li>
-<li><strong>The HHCC Artifact Research Data Base</strong></li>
-<li><strong>Accessing the Artifact Data Base</strong></li>
-<li><strong>Caring for the Artifact Collection</strong></li>
-<li><strong>The Public Programing of the Collection</strong></li>
+<li><strong><a href="https://bill-oliver.github.io/OliverAssociates/undertaking-the-research.html">Undertaking the Research</a></strong></li>
+<li><strong><a href="https://bill-oliver.github.io/OliverAssociates/the-hhcc-artifact-research-data-base.html">The HHCC Artifact Research Data Base</a></strong></li>
+<li><strong><a href="https://bill-oliver.github.io/OliverAssociates/accessing-the-artifact-data-base.html">Accessing the Artifact Data Base</a></strong></li>
+<li><strong><a href="https://bill-oliver.github.io/OliverAssociates/caring-for-the-artifact-collection.html">Caring for the Artifact Collection</a></strong></li>
+<li><strong><a href="https://bill-oliver.github.io/OliverAssociates/the-public-programing-of-the-collection.html">The Public Programing of the Collection</a></strong></li>
 </ul>
             ]]>
         </content>
