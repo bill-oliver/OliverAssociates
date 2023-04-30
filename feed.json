@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "OliverAssociates",
+    "description": "",
+    "home_page_url": "https://bill-oliver.github.io/OliverAssociates",
+    "feed_url": "https://bill-oliver.github.io/OliverAssociates/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "bo"
+    },
+    "items": [
+    ]
+}

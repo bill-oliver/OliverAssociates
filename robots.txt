@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bill-oliver.github.io/OliverAssociates/sitemap.xml
