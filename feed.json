@@ -9,5 +9,145 @@
         "name": "bo"
     },
     "items": [
+        {
+            "id": "https://bill-oliver.github.io/OliverAssociates/accessing-the-data.html",
+            "url": "https://bill-oliver.github.io/OliverAssociates/accessing-the-data.html",
+            "title": "Accessing the Data",
+            "summary": "See Essential Document No. 4 OA 2005B, Section 4, User Guide Identification and Labeling Artifacts Boxing and Labeling for Storage Storage and Warehousing The Collection on Display",
+            "content_html": "<p><em>See Essential Document No. 4 OA 2005B, Section 4, User Guide</em>  </p>\n<ul>\n<li><strong>Identification and Labeling Artifacts</strong></li>\n<li><strong>Boxing and Labeling for Storage</strong></li>\n<li><strong>Storage and Warehousing</strong></li>\n<li><strong>The Collection on Display</strong></li>\n</ul>",
+            "author": {
+                "name": "bo"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-30T14:49:37-04:00",
+            "date_modified": "2023-04-30T14:49:37-04:00"
+        },
+        {
+            "id": "https://bill-oliver.github.io/OliverAssociates/understanding-the-data-base.html",
+            "url": "https://bill-oliver.github.io/OliverAssociates/understanding-the-data-base.html",
+            "title": "Understanding the Data Base",
+            "summary": "See Essential Document No. 4 OA 2005B, Section 3, Catalog",
+            "content_html": "<p><em>See Essential Document No. 4 OA 2005B, Section 3, Catalog</em></p>",
+            "author": {
+                "name": "bo"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-30T14:48:51-04:00",
+            "date_modified": "2023-04-30T14:48:51-04:00"
+        },
+        {
+            "id": "https://bill-oliver.github.io/OliverAssociates/the-hhccs-archival-collection-data-base.html",
+            "url": "https://bill-oliver.github.io/OliverAssociates/the-hhccs-archival-collection-data-base.html",
+            "title": "The HHCC’s Archival Collection Data Base ",
+            "summary": "Understanding the Data Base Accessing the Data",
+            "content_html": "<ul>\n<li><strong>Understanding the Data Base</strong></li>\n<li><strong>Accessing the Data</strong></li>\n</ul>",
+            "author": {
+                "name": "bo"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-30T14:48:15-04:00",
+            "date_modified": "2023-04-30T14:48:15-04:00"
+        },
+        {
+            "id": "https://bill-oliver.github.io/OliverAssociates/the-public-programing-of-the-collection.html",
+            "url": "https://bill-oliver.github.io/OliverAssociates/the-public-programing-of-the-collection.html",
+            "title": "The Public Programing of the Collection",
+            "summary": "Insert content material, doc OA20007C, PP 23-27",
+            "content_html": "<p>Insert content material, doc OA20007C, PP 23-27</p>\n<ul>\n<li><strong>The Educational Materials Research and Development Program</strong></li>\n<li><strong>The On-Line, Virtual Museum and Archive Program</strong></li>\n<li><strong>The On-Line Interactive Educational Website Program</strong></li>\n<li><strong>The On-Site Educational Display and Exhibition Program</strong></li>\n<li><strong>General Conclusion</strong></li>\n</ul>\n<p><strong> </strong></p>",
+            "author": {
+                "name": "bo"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-30T14:47:26-04:00",
+            "date_modified": "2023-04-30T14:47:26-04:00"
+        },
+        {
+            "id": "https://bill-oliver.github.io/OliverAssociates/caring-for-the-artifact-collection.html",
+            "url": "https://bill-oliver.github.io/OliverAssociates/caring-for-the-artifact-collection.html",
+            "title": "Caring for the Artifact Collection",
+            "summary": "Insert content material. Item Identification Boxing and Labeling Storage and Warehousing Selecting and Consigning Artifacts for Display and Exposition",
+            "content_html": "<p>Insert content material.</p>\n<ul>\n<li><strong>Item Identification </strong></li>\n<li><strong>Boxing and Labeling </strong></li>\n<li><strong>Storage and Warehousing</strong></li>\n<li><strong>Selecting and Consigning Artifacts for Display and Exposition</strong></li>\n</ul>",
+            "author": {
+                "name": "bo"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-30T14:47:00-04:00",
+            "date_modified": "2023-04-30T14:47:00-04:00"
+        },
+        {
+            "id": "https://bill-oliver.github.io/OliverAssociates/accessing-the-artifact-data-base.html",
+            "url": "https://bill-oliver.github.io/OliverAssociates/accessing-the-artifact-data-base.html",
+            "title": "Accessing the Artifact Data Base",
+            "summary": "Cross Reference Codes: Inset doc No. HVACR1710B QVAS Manual: Insert doc HVACR 1403E Research Tools: Insert tools reference Bill Oliver",
+            "content_html": "<ul>\n<li><strong>Cross Reference Codes</strong>: Inset doc No. HVACR1710B  </li>\n<li><strong>QVAS Manual: </strong>Insert doc<strong> </strong> HVACR 1403E</li>\n<li><strong>Research Tools: </strong>Insert tools reference Bill Oliver</li>\n</ul>",
+            "author": {
+                "name": "bo"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-30T14:46:20-04:00",
+            "date_modified": "2023-04-30T14:46:20-04:00"
+        },
+        {
+            "id": "https://bill-oliver.github.io/OliverAssociates/the-hhcc-artifact-research-data-base.html",
+            "url": "https://bill-oliver.github.io/OliverAssociates/the-hhcc-artifact-research-data-base.html",
+            "title": "The HHCC Artifact Research Data Base",
+            "summary": "The Provenance, Identification, Recovery, and Conservation of the Founding Artifact Collection Insert content material from HHCC Essential Document No.3, Doc No. OA2007C, PP 8-14 Insert content material from HHCC Essential Document No.3, Doc No. OA2007C, PP 14-20 Insert content material from HHCC Essential Document No.3,&hellip;",
+            "content_html": "<ul>\n<li><strong>The Provenance, Identification, Recovery, and Conservation of the Founding Artifact Collection</strong></li>\n</ul>\n<p><em>Insert content material from HHCC Essential Document No.3, Doc No. OA2007C, PP 8-14</em></p>\n<ul>\n<li><strong>Research, Cultural Interpretation, and Database Development:  </strong></li>\n</ul>\n<p><em>Insert content material from HHCC Essential Document No.3, Doc No. OA2007C, PP 14-20</em><strong>  </strong></p>\n<ul>\n<li><strong>The Collection Management Process: </strong></li>\n</ul>\n<p><em>Insert content material from HHCC Essential Document No.3, Doc No. OA2007C,<strong> </strong>PP 21-22</em><strong>  </strong><strong>                                                       </strong></p>\n<ul>\n<li><strong>The Public Programming of the Founding Collection:</strong></li>\n</ul>\n<p><em>Insert content material from HHCC Essential Document No.3, Doc No. OA2007C, PP. 23-27</em></p>\n<p> </p>",
+            "author": {
+                "name": "bo"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-30T14:45:45-04:00",
+            "date_modified": "2023-04-30T14:45:45-04:00"
+        },
+        {
+            "id": "https://bill-oliver.github.io/OliverAssociates/undertaking-the-research.html",
+            "url": "https://bill-oliver.github.io/OliverAssociates/undertaking-the-research.html",
+            "title": "Undertaking the Research",
+            "summary": "The large part of the research was undertaken by Oliver Associates[1] between 1999-2008. The collection of “Historic Artifacts of HVACR Technology”, consisting of 350 items, was prepared with an eye to meeting musicological gifting standards, pallet mounted, boxed [See picture], and labeled. Box labels were&hellip;",
+            "content_html": "<p>The large part of the research was undertaken by Oliver Associates<a href=\"#_ftn1\" name=\"_ftnref1\">[1]</a> between 1999-2008. The collection of “Historic Artifacts of HVACR Technology”, consisting of 350 items, was prepared with an eye to meeting musicological gifting standards, pallet mounted, boxed [See picture], and labeled. Box labels were automatically generated as part of the research report. The collection was subsequently the subject of a gift-in-kind to HHCC. and moved to HHCC’s collections warehouse [see picture]. HHCC was subsequently granted access and use of the research data base [See memorandum of Understanding, Sept 28, 2020, doc OA2007E].</p>\n<p>The research was guided by the understandings of the times of the nature of “material culture”, as concept, principle, and idea. For study purposes an elemental research paradigm was employed: “What it is; What it does; How it works; with What results; and with; What consequences for Canadian society and culture”.</p>\n<p>The open-ended research process was guided by a 40-element data sheet. The research covered traditional tombstone data, with special reference to “significance” [Technological, Industrial, Socio-Economic, and Socio-cultural significance. See “Research Report Classification Management Information System”, doc. HVACR1705A.</p>\n<hr>\n<p><a href=\"#_ftnref1\" name=\"_ftn1\">[1]</a> Leslie Oliver PhD, principal.  </p>",
+            "author": {
+                "name": "bo"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-30T14:43:45-04:00",
+            "date_modified": "2023-04-30T14:43:45-04:00"
+        },
+        {
+            "id": "https://bill-oliver.github.io/OliverAssociates/accessing-hhccs-artifact-research-data-base.html",
+            "url": "https://bill-oliver.github.io/OliverAssociates/accessing-hhccs-artifact-research-data-base.html",
+            "title": "Accessing HHCC’s Artifact Research Data Base",
+            "summary": "Undertaking the Research The HHCC Artifact Research Data Base Accessing the Artifact Data Base Caring for the Artifact Collection The Public Programing of the Collection",
+            "content_html": "<ul>\n<li><strong>Undertaking the Research</strong></li>\n<li><strong>The HHCC Artifact Research Data Base</strong></li>\n<li><strong>Accessing the Artifact Data Base</strong></li>\n<li><strong>Caring for the Artifact Collection</strong></li>\n<li><strong>The Public Programing of the Collection</strong></li>\n</ul>",
+            "author": {
+                "name": "bo"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-30T14:42:24-04:00",
+            "date_modified": "2023-04-30T14:42:24-04:00"
+        },
+        {
+            "id": "https://bill-oliver.github.io/OliverAssociates/records-of-hhccs-performance-and-achievements.html",
+            "url": "https://bill-oliver.github.io/OliverAssociates/records-of-hhccs-performance-and-achievements.html",
+            "title": "Records of HHCC’s Performance and Achievements",
+            "summary": "TBC",
+            "content_html": "<p>TBC</p>",
+            "author": {
+                "name": "bo"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-30T14:39:19-04:00",
+            "date_modified": "2023-04-30T14:39:19-04:00"
+        }
     ]
 }
